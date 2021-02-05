@@ -25,18 +25,19 @@ namespace Stock_Purchase_Dictionary
             purchases.Add((ticker: "CAT", shares: 120, price: 14.45));
             purchases.Add((ticker: "CAT", shares: 60, price: 5.45));
 
-            var congregatedDictionary = new Dictionary<string, int>();
+
+            var congregatedDictionary = new Dictionary<string, double>();
 
 
             foreach ((string ticker, int shares, double price) purchase in purchases)
             {
                 if (!congregatedDictionary.ContainsKey(stocks[purchase.ticker]))
                 {
-                    congregatedDictionary.Add(stocks[purchase.ticker], (int)(Convert.ToDouble(purchase.shares) * purchase.price));
+                    congregatedDictionary.Add(stocks[purchase.ticker], (Convert.ToDouble(purchase.shares) * purchase.price));
                 }
                 else
                 {
-                    congregatedDictionary[stocks[purchase.ticker]] += (int)(Convert.ToDouble(purchase.shares) * purchase.price);
+                    congregatedDictionary[stocks[purchase.ticker]] += (Convert.ToDouble(purchase.shares) * purchase.price);
                 }
 
             }
