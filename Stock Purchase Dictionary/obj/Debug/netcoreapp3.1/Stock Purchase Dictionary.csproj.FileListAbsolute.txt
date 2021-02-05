@@ -1,0 +1,13 @@
+C:\Users\cloja\source\repos\Back-End\Stock Purchase Dictionary\Stock Purchase Dictionary\bin\Debug\netcoreapp3.1\Stock Purchase Dictionary.exe
+C:\Users\cloja\source\repos\Back-End\Stock Purchase Dictionary\Stock Purchase Dictionary\bin\Debug\netcoreapp3.1\Stock Purchase Dictionary.deps.json
+C:\Users\cloja\source\repos\Back-End\Stock Purchase Dictionary\Stock Purchase Dictionary\bin\Debug\netcoreapp3.1\Stock Purchase Dictionary.runtimeconfig.json
+C:\Users\cloja\source\repos\Back-End\Stock Purchase Dictionary\Stock Purchase Dictionary\bin\Debug\netcoreapp3.1\Stock Purchase Dictionary.runtimeconfig.dev.json
+C:\Users\cloja\source\repos\Back-End\Stock Purchase Dictionary\Stock Purchase Dictionary\bin\Debug\netcoreapp3.1\Stock Purchase Dictionary.dll
+C:\Users\cloja\source\repos\Back-End\Stock Purchase Dictionary\Stock Purchase Dictionary\bin\Debug\netcoreapp3.1\Stock Purchase Dictionary.pdb
+C:\Users\cloja\source\repos\Back-End\Stock Purchase Dictionary\Stock Purchase Dictionary\obj\Debug\netcoreapp3.1\Stock Purchase Dictionary.csprojAssemblyReference.cache
+C:\Users\cloja\source\repos\Back-End\Stock Purchase Dictionary\Stock Purchase Dictionary\obj\Debug\netcoreapp3.1\Stock Purchase Dictionary.AssemblyInfoInputs.cache
+C:\Users\cloja\source\repos\Back-End\Stock Purchase Dictionary\Stock Purchase Dictionary\obj\Debug\netcoreapp3.1\Stock Purchase Dictionary.AssemblyInfo.cs
+C:\Users\cloja\source\repos\Back-End\Stock Purchase Dictionary\Stock Purchase Dictionary\obj\Debug\netcoreapp3.1\Stock Purchase Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\cloja\source\repos\Back-End\Stock Purchase Dictionary\Stock Purchase Dictionary\obj\Debug\netcoreapp3.1\Stock Purchase Dictionary.dll
+C:\Users\cloja\source\repos\Back-End\Stock Purchase Dictionary\Stock Purchase Dictionary\obj\Debug\netcoreapp3.1\Stock Purchase Dictionary.pdb
+C:\Users\cloja\source\repos\Back-End\Stock Purchase Dictionary\Stock Purchase Dictionary\obj\Debug\netcoreapp3.1\Stock Purchase Dictionary.genruntimeconfig.cache
