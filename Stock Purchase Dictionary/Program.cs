@@ -39,7 +39,6 @@ namespace Stock_Purchase_Dictionary
                 {
                     congregatedDictionary[stocks[purchase.ticker]] += (Convert.ToDouble(purchase.shares) * purchase.price);
                 }
-
             }
             foreach (var item in congregatedDictionary)
             {
